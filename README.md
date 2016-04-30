@@ -1,3 +1,5 @@
 # katas
 
-Katas of note (complete at http://www.codewars.com/users/adamkdean).
+Katas of note which are more than just a snippet.
+
+More at http://www.codewars.com/users/adamkdean.
